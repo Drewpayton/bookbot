@@ -7,7 +7,7 @@ Features
 Word Count: Counts the total number of words in the document.
 Letter Frequency: Counts the frequency of each letter (case-insensitive) and sorts the results in descending order of frequency.
 
-###Example Output
+##Example Output
 -- Begin report of books/frankenstein.txt --
 52956 words were found in the document
 
